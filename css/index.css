@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(106, 49, 49);
+    margin: 0px;
+    font-family: 'Gulzar', serif;
+}
+
+header {
+    border: 2px solid rgb(169, 146, 146);
+    background-color: rgb(169, 146, 146);
+    color: darkred;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.name {
+    color: darkred;
+    margin-right: 60%;
+}
+
+p {
+    display: inline;
+    margin: 0px;
+}
