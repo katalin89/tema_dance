@@ -14,10 +14,37 @@ header {
 
 .name {
     color: darkred;
-    margin-right: 60%;
+    margin-right: 70%;
 }
 
 p {
     display: inline;
     margin: 0px;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+aside {
+
+    background-image: url("/images/dance.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 30%;
+    padding-left: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+.danceArt {
+    height: 100;
+    border-radius: 50%;
+}
+
+article {
+    color: white;
+}
+
+footer {
+    color: white;
 }
